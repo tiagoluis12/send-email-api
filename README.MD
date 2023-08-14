@@ -10,5 +10,6 @@ Before you begin, ensure you have met the following requirements:
 - Basic understanding of REST APIs, Node.js, and Express.
 
 below are some prints of the project:
-https://user-images.githubusercontent.com/128226293/260471357-7ebda053-a642-4b70-8ed8-bf74976ba313.png
-https://user-images.githubusercontent.com/128226293/260471366-f19570a7-ff40-4026-827b-af8550832dfb.png
+![Screen Shot 2023-08-14 at 15 02 59](https://github.com/tiagoluis12/send-email-api/assets/128226293/17491b84-e663-462d-b11c-f0daecde3871)
+![Screen Shot 2023-08-14 at 15 03 30](https://github.com/tiagoluis12/send-email-api/assets/128226293/d08b6643-72df-4db7-a911-32874301b4de)
+
